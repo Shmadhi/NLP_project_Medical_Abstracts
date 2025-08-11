@@ -17,3 +17,5 @@ The goal is to build accurate predictive models that provide meaningful insights
 This project’s classifier helps manage the overwhelming flow of new medical research by automatically sorting it,
 saving researchers and clinicians valuable time and helping them quickly find the studies they need to make informed decisions.
 
+The dataset used is publicly available at: https://huggingface.co/datasets/TimSchopf/medical_abstracts
+
